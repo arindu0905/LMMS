@@ -1,0 +1,9 @@
+productId + customerName -> Could not find the 'productId' column of 'feedback' in the schema cache
+productId + customername -> Could not find the 'customername' column of 'feedback' in the schema cache
+productId + customer_name -> Could not find the 'customer_name' column of 'feedback' in the schema cache
+productid + customerName -> Could not find the 'productid' column of 'feedback' in the schema cache
+productid + customername -> Could not find the 'customername' column of 'feedback' in the schema cache
+productid + customer_name -> Could not find the 'customer_name' column of 'feedback' in the schema cache
+product_id + customerName -> Could not find the 'product_id' column of 'feedback' in the schema cache
+product_id + customername -> Could not find the 'customername' column of 'feedback' in the schema cache
+product_id + customer_name -> Could not find the 'customer_name' column of 'feedback' in the schema cache
