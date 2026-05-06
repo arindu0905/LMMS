@@ -1,0 +1,1 @@
+console.log(import.meta.glob || 'not supported');
